@@ -1,14 +1,15 @@
 body
 {
 	font-family: lato , sans serif;
+	background-color: #0091b4;
 }
 
 #menu
 {
 	width: 100%;
 	height: 50px;
-	border-bottom: solid 3px #000000;
 	float: top;
+	background-color: #ffffff;
 }
 
 .opcja
@@ -27,13 +28,25 @@ body
 	color: #0091b4;
 }
 
+#reklamy
+{
+	width: 980px;
+	height: 170px;
+	font-size: 20px;
+	padding: 20px;
+	background-color: #ffffff;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
 #glowna
 {
 	width: 980px;
-	height: 100%;
-	border-right: solid 1px #000000;
-	border-left: solid 1px #000000;
+	height: 2270;
 	margin-right: auto;
 	margin-left: auto;
+	margin-top: 0px;
 	padding: 20px;
+	background-color: #ffffff;
 }

@@ -21,3 +21,19 @@ body
 	text-decoration: none;
 	color: #000000;
 }
+
+.opcja:hover
+{
+	color: #0091b4;
+}
+
+#glowna
+{
+	width: 980px;
+	height: 100%;
+	border-right: solid 1px #000000;
+	border-left: solid 1px #000000;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 20px;
+}
